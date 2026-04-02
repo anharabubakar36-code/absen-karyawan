@@ -1,0 +1,5 @@
+{
+  "name": "Absensi SMK Prima Unggul",
+  "description": "Sistem Informasi Absensi Siswa dan Karyawan SMK Prima Unggul dengan integrasi Supabase.",
+  "requestFramePermissions": []
+}
